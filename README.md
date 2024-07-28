@@ -12,6 +12,9 @@ Lavanya Bhanot and Rachel Chuang
 
 **Navigation**
 1) Main code is in ETL_Mini_Project_Bhanot_Chuang.ipynb
-2) Output folder contains CSV files of all transformed data. 
-3) Resources folder contains CSV file used for data extraction and transformation.
+2) The schemas is in Crowdfunding_ETL_DB_Schema.sql
+3) The ERD is in ERD.pgn
+4) Output folder contains CSV files of all transformed data. 
+5) Resources folder contains CSV file used for data extraction and transformation.
+
 
